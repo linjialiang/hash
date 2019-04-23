@@ -1,0 +1,17 @@
+{
+    "name": "linjialiang/hash",
+    "description": "The ThinkPHP6 Hash"
+    "authors": [
+        {
+            "name": "linjialiang",
+            "email": "linjialiang@163.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "emad\\": "src"
+        },
+        "files": []
+    }
+}
